@@ -1,0 +1,1 @@
+# ngrx_template
